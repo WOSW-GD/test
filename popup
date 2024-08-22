@@ -1,0 +1,18 @@
+.tf-button {
+  background: #fbce37;
+  border-radius: 11px;
+  padding: 20px 25px;
+  color: #000000;
+  display: inline-block;
+  font: normal bold 26px/1 "Open Sans", sans-serif;
+  text-align: center;
+  border-color: #fbce37;
+}
+
+.tf-button:hover {
+  background: #fbce37;
+}
+
+.section {
+  margin-bottom: 20px;
+}
